@@ -1,2 +1,2 @@
-# docker-go-dep
+# docker-golang-dep
 Golang image with dep
